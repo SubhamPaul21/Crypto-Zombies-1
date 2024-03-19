@@ -1,0 +1,19 @@
+{
+  "name": "crypto-zombies-1",
+  "version": "1.0.0",
+  "description": "This repo consists exercise codes of Course 1 of Solidity: Beginner to Intermediate Smart Contracts by CRYPTOZOMBIES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.1"
+  }
+}
